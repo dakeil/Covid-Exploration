@@ -1,4 +1,4 @@
-# Covid-Exploration
+# Covid Exploration and Visualization
 
 This is a SQL data exploration of Covid death and Covid vaccination data lead by Alex the Analyst on Youtube.
 The data acquired was from https://ourworldindata.org/covid-deaths .
