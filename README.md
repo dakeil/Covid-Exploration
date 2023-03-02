@@ -9,4 +9,4 @@ Because the time difference of Alex's initial exploration to now, some modificat
 
 https://public.tableau.com/app/profile/deban.keil/viz/CovidDashboard_16759176174870/Dashboard1
 
-This visualization was created using 4 of the Covid Exploration queries, and guided by Alex the Analyst as well. Through the 4 tables added into Tablaeu I was able to produce 5 Visuals showing total deaths, death by continent, death by income, percentage of infection by country, and percentage of infection by continent. Due to the increased amount of data I was able to add the death by income visual that was not availiable in the original guide.
+This visualization was created using 4 of the Covid Exploration queries, and guided by Alex the Analyst as well. Through the 4 tables added into Tablaeu I was able to produce 5 Visuals showing total deaths, death by continent, death by income, percentage of infection by country, and percentage of infection by continent. Due to the increased amount of data I was able to add the death by income visual that was not availiable in the original project.
